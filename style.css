@@ -1,3 +1,17 @@
 .logotipo{
+    height: 500px;
+}
+
+main{
+    background-color:antiquewhite;
+    height: 700px;
+    color:  red;
+}
+footer{
+    background-color: khaki;
     height: 300px;
+    color: black;
+}
+header{
+    background-color: rgb(126, 72, 3);
 }
